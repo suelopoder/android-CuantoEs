@@ -1,4 +1,4 @@
 android-CuantoEs
 ================
 
-Aplicación de android para calcular cuanto debe pagar cada uno
+Aplicación de android para calcular cuanto debe pagar cada uno.
