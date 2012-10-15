@@ -20,6 +20,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity 
+            android:name=".RomanaActivity"
+			android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.ROMANA" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>            
+        </activity>
     </application>
 
 </manifest>
